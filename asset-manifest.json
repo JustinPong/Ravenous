@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ravenous/static/css/main.80345b49.css",
+    "main.js": "/Ravenous/static/js/main.e28b29b2.js",
+    "static/media/background_search_desktop.jpg": "/Ravenous/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpg",
+    "static/media/background_search_mobile.jpg": "/Ravenous/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "index.html": "/Ravenous/index.html",
+    "main.80345b49.css.map": "/Ravenous/static/css/main.80345b49.css.map",
+    "main.e28b29b2.js.map": "/Ravenous/static/js/main.e28b29b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80345b49.css",
+    "static/js/main.e28b29b2.js"
+  ]
+}
