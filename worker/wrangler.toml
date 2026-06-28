@@ -1,0 +1,7 @@
+name = "ravenous-yelp-proxy"
+main = "yelp-proxy.js"
+compatibility_date = "2024-01-01"
+
+# The YELP_API_KEY is a SECRET — do not put it here. Set it with:
+#   wrangler secret put YELP_API_KEY
+# (or as an encrypted Variable in the Cloudflare dashboard).

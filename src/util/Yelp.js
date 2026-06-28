@@ -5,11 +5,15 @@
 // back to this so a search still returns results instead of a 400.
 const DEFAULT_LOCATION = 'New York, NY';
 
+// Dev: local proxy (src/setupProxy.js). Production (GitHub Pages): the
+// Cloudflare Worker URL from REACT_APP_YELP_PROXY (.env.production).
+const PROXY_BASE = process.env.REACT_APP_YELP_PROXY || '/api/yelp';
+
 const Yelp = {
   search(term, location, sortBy) {
     const loc = (location && location.trim()) || DEFAULT_LOCATION;
     return fetch(
-      `/api/yelp/v3/businesses/search?term=${encodeURIComponent(term)}&location=${encodeURIComponent(loc)}&sort_by=${sortBy}`
+      `${PROXY_BASE}/v3/businesses/search?term=${encodeURIComponent(term)}&location=${encodeURIComponent(loc)}&sort_by=${sortBy}`
     )
       .then((response) => response.json())
       .then((jsonResponse) => {
