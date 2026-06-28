@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ravenous/static/css/main.d34a4c74.chunk.css",
-    "main.js": "/Ravenous/static/js/main.60fcb641.chunk.js",
-    "main.js.map": "/Ravenous/static/js/main.60fcb641.chunk.js.map",
+    "main.css": "/Ravenous/static/css/main.8ab72678.chunk.css",
+    "main.js": "/Ravenous/static/js/main.d54431cf.chunk.js",
+    "main.js.map": "/Ravenous/static/js/main.d54431cf.chunk.js.map",
     "runtime~main.js": "/Ravenous/static/js/runtime~main.9078551a.js",
     "runtime~main.js.map": "/Ravenous/static/js/runtime~main.9078551a.js.map",
-    "static/js/2.75cdc0c6.chunk.js": "/Ravenous/static/js/2.75cdc0c6.chunk.js",
-    "static/js/2.75cdc0c6.chunk.js.map": "/Ravenous/static/js/2.75cdc0c6.chunk.js.map",
+    "static/js/2.a16b1408.chunk.js": "/Ravenous/static/js/2.a16b1408.chunk.js",
+    "static/js/2.a16b1408.chunk.js.map": "/Ravenous/static/js/2.a16b1408.chunk.js.map",
     "index.html": "/Ravenous/index.html",
-    "precache-manifest.8465455a7d3605a1f07c559a88c951ba.js": "/Ravenous/precache-manifest.8465455a7d3605a1f07c559a88c951ba.js",
+    "precache-manifest.dcc3dd6916cf1d95fca3b82419d471b2.js": "/Ravenous/precache-manifest.dcc3dd6916cf1d95fca3b82419d471b2.js",
     "service-worker.js": "/Ravenous/service-worker.js",
-    "static/css/main.d34a4c74.chunk.css.map": "/Ravenous/static/css/main.d34a4c74.chunk.css.map",
+    "static/css/main.8ab72678.chunk.css.map": "/Ravenous/static/css/main.8ab72678.chunk.css.map",
     "static/media/SearchBar.css": "/Ravenous/static/media/background_search_mobile.5d0905e6.jpg"
   }
 }
